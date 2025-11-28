@@ -1,5 +1,4 @@
 # roulis25.github.io
-<!DOCTYPE html>
 <html lang="el">
 
 <head>
